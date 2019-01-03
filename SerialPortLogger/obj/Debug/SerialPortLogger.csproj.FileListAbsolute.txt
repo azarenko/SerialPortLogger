@@ -1,6 +1,5 @@
 D:\projects\SerialPortLogger\SerialPortLogger\bin\Debug\SerialPortLogger.exe
 D:\projects\SerialPortLogger\SerialPortLogger\bin\Debug\SerialPortLogger.pdb
-D:\projects\SerialPortLogger\SerialPortLogger\obj\Debug\SerialPortLogger.csprojAssemblyReference.cache
 D:\projects\SerialPortLogger\SerialPortLogger\obj\Debug\SerialPortLogger.MainForm.resources
 D:\projects\SerialPortLogger\SerialPortLogger\obj\Debug\SerialPortLogger.Properties.Resources.resources
 D:\projects\SerialPortLogger\SerialPortLogger\obj\Debug\SerialPortLogger.csproj.GenerateResource.cache
